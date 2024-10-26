@@ -1,0 +1,24 @@
+#conteudo {
+    width: 100%;
+    background: #ffffff;
+    background-image: url('https://pbs.twimg.com/media/GN8sHBXXAAAs_Pb.jpg:large');
+    background-position: center; /* A imagem estará centralizada */
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.btn {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+}
+
